@@ -1,7 +1,19 @@
-dwm - dynamic window manager
-============================
+dwm - dynamic window manager for Kali Linux
+===========================================
+
+Just like another DWM build, this is boring but this is fuctional.
 
 ![dwm kali linux](https://github.com/rafimrfdn/dwm-kali/blob/main/rofi-kali.png)
+
+Build with DWM 6.4.
+
+Go to the folder patches to see all patches that I've use in this DWM build.
+
+I prefer SL Status as you can see the preview in the picture.
+
+If you want another status just read documentation of **dwm-setstatus** patches.
+
+---
 
 dwm is an extremely fast, small, and dynamic window manager for X.
 
